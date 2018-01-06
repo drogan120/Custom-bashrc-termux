@@ -1,5 +1,4 @@
-//#!/data/data/com.termux/files/usr/bin/bash
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 menu(){
 clear
 echo "============================= Customize Termux V 0.0.1 ==========================="
