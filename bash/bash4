@@ -1,2 +1,2 @@
-cowsay -f eyes | lolcat
+cowsay -f eyes "Noob"| lolcat
 		
